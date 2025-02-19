@@ -122,9 +122,9 @@
           <FullPath>Ramez.sql</FullPath>
         </FileNode>
         <FileNode Name="Stored Procedures.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:TrainingManager</AssociatedConnectionMoniker>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName>TrainingManager</AssociatedConnUserName>
+          <AssociatedConnUserName />
           <FullPath>Stored Procedures.sql</FullPath>
         </FileNode>
         <FileNode Name="Synonyms.sql">
